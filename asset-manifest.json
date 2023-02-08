@@ -1,16 +1,40 @@
 {
   "files": {
-    "main.css": "/soccer-game/static/css/main.073c9b0a.css",
-    "main.js": "/soccer-game/static/js/main.b59e343e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/soccer-game/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/soccer-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/soccer-game/static/css/main.5edad8e1.css",
+    "main.js": "/soccer-game/static/js/main.8e894cd4.js",
+    "static/media/Riya1.jpg": "/soccer-game/static/media/Riya1.9cd02316a4ddb5fd85b4.jpg",
+    "static/media/Sav1.jpg": "/soccer-game/static/media/Sav1.5b1998f746b7ae82b289.jpg",
+    "static/media/Liv1.jpg": "/soccer-game/static/media/Liv1.6f3413dd0027b43ce6e9.jpg",
+    "static/media/Sam1.jpg": "/soccer-game/static/media/Sam1.4870da5a3c9398880bb7.jpg",
+    "static/media/Carrico1.jpg": "/soccer-game/static/media/Carrico1.2d3bbf29f0f5eb2f6674.jpg",
+    "static/media/Megan1.jpg": "/soccer-game/static/media/Megan1.62988306e6f772c3cc5f.jpg",
+    "static/media/Carly1.jpg": "/soccer-game/static/media/Carly1.1accb8b345382ab6389d.jpg",
+    "static/media/Robin1.jpg": "/soccer-game/static/media/Robin1.a14917d812ef2e2c16ac.jpg",
+    "static/media/Claire1.jpg": "/soccer-game/static/media/Claire1.af797bcf5f7329abad54.jpg",
+    "static/media/Grace1.jpg": "/soccer-game/static/media/Grace1.f081f56f0c2506ae8fb2.jpg",
+    "static/media/Becca1.jpg": "/soccer-game/static/media/Becca1.9b7de95d22cab77f41d0.jpg",
+    "static/media/Geno1.jpg": "/soccer-game/static/media/Geno1.87afceab612c4f602c98.jpg",
+    "static/media/Carolyn1.jpg": "/soccer-game/static/media/Carolyn1.99a59481ab71353bc0e4.jpg",
+    "static/media/Torrie1.jpg": "/soccer-game/static/media/Torrie1.fe4331e127af16279fa4.jpg",
+    "static/media/Syd1.jpg": "/soccer-game/static/media/Syd1.091ab5dd5975d3a2ae9a.jpg",
+    "static/media/Tess1.jpg": "/soccer-game/static/media/Tess1.bcc8cb32df82e3edc7c3.jpg",
+    "static/media/Mia1.jpg": "/soccer-game/static/media/Mia1.ae960bc9b4e6ad5f86fc.jpg",
+    "static/media/Nat1.jpg": "/soccer-game/static/media/Nat1.fb489bf0205fd5a8d0e0.jpg",
+    "static/media/Cohen1.jpg": "/soccer-game/static/media/Cohen1.b9b679373dc4f1d221cd.jpg",
+    "static/media/Bates1.jpg": "/soccer-game/static/media/Bates1.b313cb36ed562ab11513.jpg",
+    "static/media/Sarah1.jpg": "/soccer-game/static/media/Sarah1.d25b401987ef25357eb6.jpg",
+    "static/media/Gabby1.jpg": "/soccer-game/static/media/Gabby1.790e323891553588c807.jpg",
+    "static/media/Greg1.jpg": "/soccer-game/static/media/Greg1.c908dfec890e6a4f76a7.jpg",
+    "static/media/Jordyn1.jpg": "/soccer-game/static/media/Jordyn1.6f08f270d241b61cfe15.jpg",
+    "static/media/Riley.jpg": "/soccer-game/static/media/Riley.08c43173d3513e9ac7fd.jpg",
+    "static/media/Casmira.jpg": "/soccer-game/static/media/Casmira.4c056cb690fa3a2fce8b.jpg",
+    "static/media/Cali.jpg": "/soccer-game/static/media/Cali.dcd7ee11b2f5b170c832.jpg",
     "index.html": "/soccer-game/index.html",
-    "main.073c9b0a.css.map": "/soccer-game/static/css/main.073c9b0a.css.map",
-    "main.b59e343e.js.map": "/soccer-game/static/js/main.b59e343e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/soccer-game/static/js/787.28cb0dcd.chunk.js.map"
+    "main.5edad8e1.css.map": "/soccer-game/static/css/main.5edad8e1.css.map",
+    "main.8e894cd4.js.map": "/soccer-game/static/js/main.8e894cd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b59e343e.js"
+    "static/css/main.5edad8e1.css",
+    "static/js/main.8e894cd4.js"
   ]
 }
